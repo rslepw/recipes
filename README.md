@@ -1,1 +1,1 @@
-# recipes
+# Recipes site mockup for The Odin Project.
